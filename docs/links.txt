@@ -1,0 +1,18 @@
+--- B Tree ---
+https://medium.com/basecs/busying-oneself-with-b-trees-78bbf10522e7
+https://en.wikipedia.org/wiki/B%2B_tree
+https://www.cs.usfca.edu/~galles/visualization/BPlusTree.html
+
+--- Helpful Intro ---
+https://fly.io/blog/sqlite-internals-btree/
+
+--- Data Forensics ---
+https://link.springer.com/content/pdf/10.1007/978-3-030-98467-0_5.pdf
+
+---- Official Docs ---
+https://www.sqlite.org/fileformat.html#record_format
+https://www.sqlite.org/datatype3.html
+https://www.sqlite.org/schematab.html
+
+***** Super Helpful VISUALIZATION *****
+https://saveriomiroddi.github.io/SQLIte-database-file-format-diagrams/
