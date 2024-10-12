@@ -1,3 +1,12 @@
+# TODO
+- [x] B Tree traversal
+- [x] Count rows
+- [ ] SQL Parser- [Get started here](https://youtu.be/eF9qWbuQLuw?si=ZHXBkfgVlcWZ8Rc6)
+- [ ] Finish up [partially completed](https://github.com/rudrOwO/build-your-own-sqlite/blob/b746e0ea212e37b209003fc7f64e64f05a2ff044/app/btree/page.go#L46) page loading logic
+- [ ] Index search
+
+<br>
+
 [![progress-banner](https://backend.codecrafters.io/progress/sqlite/179470c4-d788-46a1-a710-a17719813954)](https://app.codecrafters.io/users/codecrafters-bot?r=2qF)
 
 This is a starting point for Go solutions to the
